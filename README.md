@@ -14,10 +14,10 @@ The project focuses on analyzing the economic viability, management strategies, 
 
 | File / Folder | Description |
 |---------------|-------------|
-| `Research_Paper.pdf` | Complete research paper detailing methodology, results, and conclusions |
-| `Project_Report.pdf` | Full project report including analysis, data, and findings |
-| `Presentation.pptx` | PowerPoint slides summarizing key aspects of the project |
-| `Poster.pdf` | Project poster for academic presentation and showcase |
+| 1) Project Poster | Complete research paper detailing methodology, results, and conclusions |
+| 2) Project_Presentation Presentation | Full project report including analysis, data, and findings |
+| 3) Project Report | PowerPoint slides summarizing key aspects of the project |
+| 4) Research Paper | Project poster for academic presentation and showcase |
 
 
 ##  Technology
