@@ -12,8 +12,8 @@ The project focuses on analyzing the economic viability, management strategies, 
 
 ## Repository Contents
 
-| File / Folder | Description |
-|---------------|-------------|
+| Sr No.| File / Folder | Description |
+|-------|---------------|-------------|
 | 1) Project Poster | Complete research paper detailing methodology, results, and conclusions |
 | 2) Project_Presentation Presentation | Full project report including analysis, data, and findings |
 | 3) Project Report | PowerPoint slides summarizing key aspects of the project |
