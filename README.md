@@ -17,6 +17,7 @@ This repository contains my **Bachelor’s project** on the **Economic Managemen
 | `Project_Report.pdf` | Full project report including analysis, data, and findings |
 | `Presentation.pptx` | PowerPoint slides summarizing key aspects of the project |
 | `Poster.pdf` | Project poster for academic presentation and showcase |
+| bdhbgf | ygvsb |
 
 ## 🚀 Technologies & Tools Used
 
